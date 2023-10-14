@@ -103,4 +103,9 @@ body{
   border: none;
   cursor: pointer;
   background: none;
+  color:darkgray;
+  transition: all linear 0.5s;
+}
+.note-btn button:hover{
+  color: #000;
 }
