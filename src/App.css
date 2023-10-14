@@ -101,5 +101,6 @@ body{
 
 .note-btn button{
   border: none;
+  cursor: pointer;
   background: none;
 }
